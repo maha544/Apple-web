@@ -1,0 +1,105 @@
+/* .icon {
+    margin: 0px;
+    width: 30px;
+    height: 20px;
+    border-radius: 500px 500px;
+    padding: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: smaller;
+}
+header {
+    word-spacing: 50px;
+    text-align: center;
+}
+.search {
+    width: 40px;
+    height: 30px;
+    border-radius: 500px 500px;
+}
+.shop {
+    width: 20px;
+    height: 15px;
+    border-radius: 600px 600px;
+}
+.des {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: small;
+}
+.ippro {
+    width: 100%;
+    height: 900px;
+}
+.ip {
+    width: 100%;
+    background-color: whitesmoke;
+}
+.watch {
+    width: 100%;
+    height: 750PX;
+}
+.ipad {
+    width: 95%;
+    height: 500px;
+}
+.vis {
+    width: 95%;
+    height: 500px;
+}
+.mb {
+    width: 70%;
+    height: 500px;
+}
+.ap {
+    width: 650px;
+    height: 500px;
+}
+.tra {
+    width: 60%;
+    height: 40%;
+}
+.crd {
+    width: 50%;
+    height: 40%;
+}
+.para {
+    padding: 70px 100px 70px 100px;
+    background-color: floralwhite:
+}
+.tab {
+    padding: 70px 300px 70px 300px;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-size: smaller;
+}
+.info {
+    padding: 10px 300px 10px 300px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: smaller;
+    background-color: whitesmoke;
+}
+.rit {
+    padding: 5px 300px 5px 300px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: smaller;
+    background-color: whitesmoke;
+} */
+
+* {
+    font-family: 'Gabarito', cursive;;
+    padding: 0%;
+    margin: 0%;
+}
+
+/* utility class1 */
+.navbarupper{
+    background-color: black; 
+    display: inline-block;  
+}
+.li{
+    display: inline-flex;
+    background-color: black;
+    list-style: none;
+}
+a { color: white;
+    text-decoration: none;
+}
